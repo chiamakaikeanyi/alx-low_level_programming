@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- *  * main - prints Programming is like building a multilingual puzzle using the function puts
+ *  * main - prints sentence
  *   Returns 0 - success
  */
 int main(void)
