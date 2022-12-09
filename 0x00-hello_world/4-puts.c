@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- *  main - Prints sentence
+ *  main - Prints Programming is like building a multilingual puzzle
  *  Returnsi 0 success
  */
 int main(void)
