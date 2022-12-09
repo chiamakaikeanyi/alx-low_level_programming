@@ -2,7 +2,7 @@
 
 /**
  *  main - Prints Programming is like building a multilingual puzzle
- *  Returns: 0 success
+ *  Returns: 0 - success
  */
 int main(void)
 {
