@@ -1,8 +1,8 @@
 #include <stdio.h>
 
 /**
- *  Prints sentence
- *  @returns 0
+ *  main - Prints sentence
+ *  Returnsi 0 success
  */
 int main(void)
 {
